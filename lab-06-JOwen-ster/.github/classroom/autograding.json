@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Test-1",
+      "setup": "",
+      "run": "python -m unittest -v test1",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 15
+    },
+    {
+      "name": "Test-2",
+      "setup": "",
+      "run": "python -m unittest -v test2",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 15
+    }
+  ]
+}

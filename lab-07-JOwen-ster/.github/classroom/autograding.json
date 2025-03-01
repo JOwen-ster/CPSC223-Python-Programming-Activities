@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test Case",
+      "setup": "",
+      "run": "python -m unittest -v test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 30
+    }
+  ]
+}

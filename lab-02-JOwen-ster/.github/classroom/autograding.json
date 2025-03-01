@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Test&#38;&#35;38&#59;&#38;&#35;35&#59;45&#38;&#35;59&#59;1",
+      "setup": "",
+      "run": "python3 -m unittest -v test1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 4
+    },
+    {
+      "name": "Test&#38;&#35;38&#59;&#38;&#35;35&#59;45&#38;&#35;59&#59;2",
+      "setup": "",
+      "run": "python3 -m unittest -v test2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 4
+    },
+    {
+      "name": "Test&#38;&#35;38&#59;&#38;&#35;35&#59;45&#38;&#35;59&#59;3",
+      "setup": "",
+      "run": "python3 -m unittest -v test3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 4
+    },
+    {
+      "name": "Test&#38;&#35;38&#59;&#38;&#35;35&#59;45&#38;&#35;59&#59;4",
+      "setup": "",
+      "run": "python3 -m unittest -v test4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 4
+    },
+    {
+      "name": "Test&#38;&#35;45&#59;5",
+      "setup": "",
+      "run": "python3 -m unittest -v test5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 4
+    }
+  ]
+}
